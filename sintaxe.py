@@ -3,5 +3,4 @@
 Essa é a sedunda linha de comentário
 """
 
-nome =  "Jonatas" + \
-"Gomes"
+nome =  "Jonatas" + "Gomes"
