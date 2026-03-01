@@ -20,4 +20,4 @@ print("Nome Completo (6a fomra):", nome_completo_quebra)
 print("Nome Completo (7a fomra): %s" % nome_completo)
 print("Nome Completo (8a fomra): %s %s" % (nome, sobrenome))
 print(f"Nome Completo (9a forma): {nome}")
-      
+ 
