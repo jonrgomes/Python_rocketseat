@@ -27,3 +27,6 @@ print(nome.encode().decode())
 
 # Substitui uma str por outra str
 print(nome_completo.replace("a", "e"))
+
+# Adicionar um separador por caracter em str
+print(("-").join(nome_completo))
