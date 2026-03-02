@@ -30,3 +30,9 @@ print(nome_completo.replace("a", "e"))
 
 # Adicionar um separador por caracter em str
 print(("-").join(nome_completo))
+
+# Converter str em listas
+print(nome_completo.split(" "))
+
+# Trata ruídos na em suas extremidades
+print(nome.strip("J"))
