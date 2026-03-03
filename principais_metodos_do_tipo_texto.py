@@ -36,3 +36,11 @@ print(nome_completo.split(" "))
 
 # Trata ruídos na em suas extremidades
 print(nome.strip("J"))
+print(nome.rstrip("s"))
+
+# Comparadores
+print(nome_completo.startswith("Jo"))
+
+# Exitencia de uma str dentro da variavel
+print("na" in nome_completo)
+print("cer" not in nome_completo)
