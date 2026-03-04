@@ -1,4 +1,4 @@
-#  Lista é uma conleção de elementos ordenaveis e multaveis.
+#  Lista é uma coleção de elementos ordenaveis e multaveis.
 # Declaração
 minha_lista = [1, 2, 3, 4, 5, "rocketseta", True, False]
 minha_lista2 = [1, 7, 3, 6, 5, 4, 2]
